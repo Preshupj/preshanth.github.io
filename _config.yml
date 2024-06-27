@@ -24,9 +24,9 @@ author:
   avatar           : "clock.png"
   name             : "Preshanth Adhini Ramesh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hello Fella Analysts"
+  location         : "Boston, MA"
+  employer         : "Northeastern University"
   uri              : # URL
   email            : "none@example.org" 
 
